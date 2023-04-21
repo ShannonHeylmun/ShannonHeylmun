@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about logical fallacies
 - 🌱 I’m currently learning to keep plants alive
 - 👯 I’m looking to collaborate on *squirrel*
-- 🤔 I’m looking for help with on *squirrel*
+- 🤔 I’m looking for help with *squirrel*
 
 - 📫 How to reach me: shannon@voidstarsolutions.com
 
-- ⚡ Fun fact: 
+<!-- - ⚡ Fun fact:  -->
