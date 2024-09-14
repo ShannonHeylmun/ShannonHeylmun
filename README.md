@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on the Cloud Appreciation Society's full stack.
 - 😄 Pronouns: she/they
-- 💬 Ask me about logic, gymnastics, Florida
-- 🌱 I’m currently learning Swift and how to keep plants alive
+- 💬 Ask me about formal logic, the Olympics, SCUBA
+- 🌱 I’m currently learning Swift and Sveltekit
 - 📫 How to reach me: shannon@voidstarsolutions.com
-- ⚡ Fun fact: I f***s with sharks (and lionfish, eels, octopodes... basically all the terrors of the deep).
