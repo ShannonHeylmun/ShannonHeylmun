@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/they
 - 💬 Ask me about formal logic, the Olympics, SCUBA
 - 🌱 I’m currently learning Swift and Sveltekit
-- 📫 How to reach me: shannon@voidstarsolutions.com
+<!-- 📫 How to reach me: shannon@voidstarsolutions.com
