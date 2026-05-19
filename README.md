@@ -6,6 +6,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [icon_icon](https://iconicon.fyi)
 - 😄 Pronouns: she/they
-- 💬 Ask me about formal logic, the Olympics, SCUBA
+- 💬 Ask me about formal logic or SCUBA
 - 🌱 I’m currently learning Swift and Sveltekit
 - 📫 How to reach me: [https://ShannonHeylmun.github.io](https://ShannonHeylmun.github.io)
